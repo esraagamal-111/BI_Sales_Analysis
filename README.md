@@ -74,14 +74,14 @@ Applied some Dax Function to get the required information
 
 ## Sales performance
 
-![](Sales.png)
+![](Sales_Performance1.png)
 
 #### Sales performance is improving since 2010 till 2013 years.
 #### Protein is the best sales contributes about 64 million to net sales compared with Carps 6 million 
 
 2012 Returns             |          2013 Returns
 :--------------------------:|:------------------------:
-![](Sales1.png)         |         ![](Sales2.png)
+![](Sales_Performance.png)         |         ![](Sales_Performance2.png)
 
 ####  Focus on 2013 vs 2012 we can easily find that:
  - Net Sales goes up to $31M compared with $25M in 2012.
